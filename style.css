@@ -100,4 +100,15 @@ p, h1 {
     .profile{
         transform: scale(80%);
     }
-  }
+}
+
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    color: white;
+    margin: 1rem;
+}
+.attribution a { 
+    color: hsl(0, 100%, 77%); 
+}
